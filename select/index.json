@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "JUICY",
+  "base_artist": "Snow Man",
+  "createdAt": "2026-04-01T13:21:36.920672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Buttered Up (feat. Juicy J)",
+      "artist": "Yung Gravy",
+      "has_synced": true,
+      "path": "select/01_Buttered_Up_(feat._Juicy_J)_Yung_Gravy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Ain't Gotta Say Shit (feat. Juicy J)",
+      "artist": "Young Chop",
+      "has_synced": true,
+      "path": "select/02_I_Ain't_Gotta_Say_Shit_(feat._Juicy_J)_Young_Chop.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trippy (Feat. Juicy J)",
+      "artist": "Lil Wayne",
+      "has_synced": true,
+      "path": "select/03_Trippy_(Feat._Juicy_J)_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wolf Pack (feat. DJ Paul, Gangsta Boo & Juicy J)",
+      "artist": "La Chat",
+      "has_synced": true,
+      "path": "select/04_Wolf_Pack_(feat._DJ_Paul,_Gangsta_Boo_&_Juicy_J)_La_Chat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "You Ain't Mad Iz Ya (feat. DJ Paul & Juicy J)",
+      "artist": "La Chat",
+      "has_synced": false,
+      "path": "select/05_You_Ain't_Mad_Iz_Ya_(feat._DJ_Paul_&_Juicy_J)_La_Chat.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Simon Says (feat. Juicy J)",
+      "artist": "Megan Thee Stallion feat. Juicy J",
+      "has_synced": true,
+      "path": "select/06_Simon_Says_(feat._Juicy_J)_Megan_Thee_Stallion_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Simon Says (feat. Juicy J)",
+      "artist": "Megan Thee Stallion",
+      "has_synced": false,
+      "path": "select/07_Simon_Says_(feat._Juicy_J)_Megan_Thee_Stallion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Juicy",
+      "artist": "The Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/08_Juicy_The_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Juicy",
+      "artist": "Notorious B.I.G.",
+      "has_synced": true,
+      "path": "select/09_Juicy_Notorious_B.I.G..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Halle Berry (feat. Juicy J)",
+      "artist": "$NOT feat. Juicy J",
+      "has_synced": true,
+      "path": "select/10_Halle_Berry_(feat._Juicy_J)_$NOT_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Halle Berry (feat. Juicy J)",
+      "artist": "$Not",
+      "has_synced": true,
+      "path": "select/11_Halle_Berry_(feat._Juicy_J)_$Not.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Juicy J Can't",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/12_Juicy_J_Can't_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "RIP Young (feat. Project Pat & Juicy J) - Remix",
+      "artist": "Isaiah Rashad feat. Juicy J & Project Pat",
+      "has_synced": true,
+      "path": "select/13_RIP_Young_(feat._Project_Pat_&_Juicy_J)_-_Remix_Isaiah_Rashad_feat._Juicy_J_&_Project_Pat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "RIP Young (Remix) (feat. Juicy J & Project Pat)",
+      "artist": "Isaiah Rashad",
+      "has_synced": true,
+      "path": "select/14_RIP_Young_(Remix)_(feat._Juicy_J_&_Project_Pat)_Isaiah_Rashad.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Juicy Jungle",
+      "artist": "The B-52's",
+      "has_synced": true,
+      "path": "select/15_Juicy_Jungle_The_B-52's.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "SQUARE UP (feat. Juicy J)",
+      "artist": "IDK feat. Juicy J",
+      "has_synced": true,
+      "path": "select/16_SQUARE_UP_(feat._Juicy_J)_IDK_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SQUARE UP (feat. Juicy J)",
+      "artist": "IDK",
+      "has_synced": true,
+      "path": "select/17_SQUARE_UP_(feat._Juicy_J)_IDK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Woosah (ft Juicy J & Twista)",
+      "artist": "Jeremih",
+      "has_synced": true,
+      "path": "select/18_Woosah_(ft_Juicy_J_&_Twista)_Jeremih.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Gunz N Butter (feat. Juicy J)",
+      "artist": "A$AP Rocky feat. Juicy J",
+      "has_synced": true,
+      "path": "select/19_Gunz_N_Butter_(feat._Juicy_J)_A$AP_Rocky_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "JUICY",
+      "artist": "Snow Man",
+      "has_synced": false,
+      "path": "select/pl_01_JUICY_Snow_Man.txt"
+    }
+  ]
+}
